@@ -1,4 +1,5 @@
-##🐧 Hi everyone! 🐧
+##🐧 Hi everyone!🐧
+
 🔹 📊 Data Analytics | Data Science  
 🔹 🚀 Passionate about data visualization & storytelling  
 🔹 🔭 I’m currently working on on a fire incidents dataset project 
