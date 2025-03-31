@@ -1,5 +1,11 @@
-## Hi there 👋
+##🐧 Hi everyone! 🐧
+🔹 📊 Data Analytics | Data Science  
+🔹 🚀 Passionate about data visualization & storytelling  
+🔹 🔭 I’m currently working on on a fire incidents dataset project 
 
+## Skills
+- Python, SQL, Power BI, Excel
+- Data Cleaning & Analysis
 <!--
 **arctic-analyst/arctic-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
