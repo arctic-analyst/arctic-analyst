@@ -1,4 +1,4 @@
-##🐧 Hi everyone!🐧
+## Hi everyone!🐧
 
 🔹 📊 Data Analytics | Data Science  
 🔹 🚀 Passionate about data visualization & storytelling  
