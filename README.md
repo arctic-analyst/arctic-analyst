@@ -2,7 +2,7 @@
 
 🔹 📊 Data Analytics | Data Science  
 🔹 🚀 Passionate about data visualization & storytelling  
-🔹 🔭 I’m currently working on on a fire incidents dataset project 
+🔹 🔭 I’m currently working on on a hospital record data analytics project 
 
 ## Skills
 - Python, SQL, Power BI, Excel
